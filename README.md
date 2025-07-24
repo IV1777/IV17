@@ -1,8 +1,8 @@
-### Hi there 👋, I'm [Your Name]!
+### Hi there 👋, I'm Vishal!
 - 🎓 I'm a student passionate about coding & data
 - 💻 I work with Python, SQL, C, HTML, CSS
 - 🚀 Currently learning Data Structures & Web Development
-- 📫 Reach me at: [your email] | [LinkedIn]
+  
 
 ---
 
